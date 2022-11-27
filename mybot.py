@@ -5,7 +5,7 @@ import io
 from telebot import types
 from random import randint
 
-bot = telebot.TeleBot("5952703055:AAG91Q_WUcQ60J_qKg2JMPB8HWFmcCcIxSA", parse_mode=None)
+bot = telebot.TeleBot("", parse_mode=None)
 
 number = None
 step = 1
